@@ -1,0 +1,33 @@
+.body{
+  background-color: silver;
+}
+
+.fibs-color{
+  color: blue;
+  border: 5px solid black;
+    padding: 15px 15px 15px 15px;
+    margin: 30px;
+    display: inline-block;
+    background-color: ;
+}
+
+.wraps-color{
+  color: white;
+  text-decoration: underline;
+}
+.sides-color{
+  color: white;
+  text-decoration: underline;
+}
+.second-body{
+  background-color: silver;
+}
+.fibbington{
+  color: blue;
+}
+.about-us{
+  color: white;
+  text-decoration: underline;
+}
+.centered {
+  text-align: center;
